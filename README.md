@@ -49,16 +49,6 @@
 
 ---
 
-### 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asrafaasis0786&theme=tokyonight" alt="GitHub Streak" width="400"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asrafaasis0786&layout=compact&theme=tokyonight" alt="Top Languages" width="400"/>
-</p>
-
----
-
 ### 🤝 Connect with Me
 
 <p align="center">
