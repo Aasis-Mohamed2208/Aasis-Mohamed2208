@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Asis Mohamed</h1>
+<h1 align="center">Hi 👋, I'm Aasis Mohamed</h1>
 
 <p align="center">
   <b>Software Development Engineer (SDE)</b> specializing in <b>AI, Machine Learning, and Backend Engineering</b>.
