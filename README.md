@@ -1,49 +1,92 @@
-# Hi 👋, I'm Asis Mohamed
+<h1 align="center">Hi 👋, I'm Asis Mohamed</h1>
 
-Aspiring **Software Development Engineer (SDE)** passionate about **AI, ML, and Backend Development**.  
-
-🔭 I’m currently working on AI/ML projects and enhancing my backend development skills  
-
-🌱 I’m currently learning **Advanced Data Structures, System Design, LLMs, and NLP**  
-
-💬 Ask me about **Java, Python, Algorithms, Data Structures, and Machine Learning**  
-
-📫 How to reach me: [asrafaasis0786@gmail.com](mailto:asrafaasis0786@gmail.com)  
+<p align="center">
+  <b>Software Development Engineer (SDE)</b> specializing in <b>AI, Machine Learning, and Backend Engineering</b>.
+</p>
 
 ---
 
-### Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AsisMohamed-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asis-mohamed/)  
-[![GitHub](https://img.shields.io/badge/GitHub-asrafaasis0786-181717?style=flat&logo=github)](https://github.com/asrafaasis0786)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/asrafaasis0786/)  
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-0F9D58?style=flat&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/asrafaasis0786)  
+### 👨‍💻 About Me
+
+💡 Passionate about building **AI-driven backend systems** that transform complex data into intelligent, production-ready solutions.  
+🚀 Experienced in designing **scalable REST APIs**, **data pipelines**, and **ML model deployments** that serve thousands of inferences efficiently.  
+🧠 Currently working on projects blending **BERT-based NLP**, **Flask microservices**, and **containerized backends** with real-time job matching and automation.  
+📈 Delivered solutions that improved **processing speed by 40%**, enhanced **model accuracy by 15%**, and optimized **API latency under 200ms** in production-grade prototypes.  
+🔧 Skilled in **Java, Python, Spring Boot, Flask, SQL**, and **ML pipelines** — integrating them seamlessly into cloud-ready environments.  
+💬 Ask me about **LLM integrations**, **microservice architecture**, and **ML model deployment workflows**.  
+📫 Reach me at: [asrafaasis0786@gmail.com](mailto:asrafaasis0786@gmail.com)  
+⚡ Fun fact: I treat debugging as a sport — every solved bug feels like a win 🏆  
 
 ---
 
-### Languages and Tools
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_API-0A66C2?style=flat&logo=rest-api&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+### 🏆 Key Highlights
+
+- 🧠 **AI-Powered Resume Analyzer** — Built an NLP system using **BERT embeddings** to extract skills, roles, and job relevance from 5K+ resumes with **92% accuracy**.  
+- 🔍 **Career Path Recommender** — Trained ML models to predict next-step career roles and learning paths using **skill gap analysis** and **job trend APIs**.  
+- 🧰 **Scalable Backend with Flask & Docker** — Deployed ML APIs on **Google Cloud**, reducing model inference latency by **35%** through caching and async processing.  
+- ⚙️ **DevOps & Automation** — Implemented **CI/CD pipelines with Jenkins** and **Docker** to automate testing, build, and deployment workflows for ML microservices.  
+- 🧩 **System Design Focus** — Designed modular, fault-tolerant backend architectures inspired by distributed systems and clean code principles.
 
 ---
 
-### Key Projects
+### 🛠️ Tech Stack & Tools
 
-**AI-Powered Speech Generator & Presentation Coach** | [GitHub](https://github.com/asrafaasis0786)  
-- Developed a real-time speech generation tool integrating **LLMs** and **pyttsx3**.  
-- Built an NLP-based presentation coach improving delivery accuracy by **25%**.  
-- Tech: Python, Streamlit, Groq API, NLTK, pyttsx3  
-
-**Bank Management System** | [GitHub](https://github.com/asrafaasis0786)  
-- Built a secure console-based banking system supporting login, fund transfers, and transaction history.  
-- Optimized database access with **JDBC and SQL joins**, improving query speed by **20%**.  
-- Tech: Java, JDBC, MySQL  
+<p align="center">
+  <!-- Programming Languages -->
+  <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" height="55" style="margin: 10px;"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" style="margin: 10px;"/></a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="55" height="55" style="margin: 10px;"/></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="55" height="55" style="margin: 10px; filter: invert(1);"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" style="margin: 10px;"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="55" height="55" style="margin: 10px;"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="55" height="55" style="margin: 10px;"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" height="55" style="margin: 10px;"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" style="margin: 10px;"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" height="55" style="margin: 10px;"/></a>
+  <a href="https://cloud.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="55" height="55" style="margin: 10px;"/></a>
+  <a href="https://jenkins.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="55" height="55" style="margin: 10px;"/></a>
+</p>
 
 ---
 
+### 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asrafaasis0786&theme=tokyonight" alt="GitHub Streak" width="400"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asrafaasis0786&layout=compact&theme=tokyonight" alt="Top Languages" width="400"/>
+</p>
+
+---
+
+### 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aasis-mohamed-61217a253/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45" style="margin-right: 20px;"/>
+  </a>
+  <a href="https://github.com/Aasis-Mohamed2208" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" style="margin-right: 20px;"/>
+  </a>
+  <a href="https://leetcode.com/u/Aasis_Mohamed/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="45" height="45" style="margin-right: 20px;"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/asrafaas5yn1/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="45" height="45"/>
+  </a>
+</p>
+
+---
+
+### ⚙️ What I Value
+
+- 🧩 Writing **clean, testable, and scalable code** that performs under load  
+- 🔄 Automating workflows with **CI/CD** and improving system reliability  
+- 🧠 Continuous **learning and system-level optimization** mindset  
+- 💬 Building software that combines **AI intelligence + backend engineering** for measurable business impact  
+
+---
+
+<p align="center">
+  💼 <b>“Think Deep. Build Smart. Ship Fast.”</b> 🚀
+</p>
