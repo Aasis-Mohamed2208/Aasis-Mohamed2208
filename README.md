@@ -55,16 +55,6 @@
   </a>
 </p>
 
----
-
-### ⚙️ What I Value
-
-- 🧩 Writing **clean, testable, and scalable code** that performs under load  
-- 🔄 Automating workflows with **CI/CD** and improving system reliability  
-- 🧠 Continuous **learning and system-level optimization** mindset  
-- 💬 Building software that combines **AI intelligence + backend engineering** for measurable business impact  
-
----
 
 <p align="center">
   💼 <b>“Think Deep. Build Smart. Ship Fast.”</b> 🚀
