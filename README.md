@@ -17,17 +17,6 @@
 📫 Reach me at: [asrafaasis0786@gmail.com](mailto:asrafaasis0786@gmail.com)  
 ⚡ Fun fact: I treat debugging as a sport — every solved bug feels like a win 🏆  
 
----
-
-### 🏆 Key Highlights
-
-- 🧠 **AI-Powered Resume Analyzer** — Built an NLP system using **BERT embeddings** to extract skills, roles, and job relevance from 5K+ resumes with **92% accuracy**.  
-- 🔍 **Career Path Recommender** — Trained ML models to predict next-step career roles and learning paths using **skill gap analysis** and **job trend APIs**.  
-- 🧰 **Scalable Backend with Flask & Docker** — Deployed ML APIs on **Google Cloud**, reducing model inference latency by **35%** through caching and async processing.  
-- ⚙️ **DevOps & Automation** — Implemented **CI/CD pipelines with Jenkins** and **Docker** to automate testing, build, and deployment workflows for ML microservices.  
-- 🧩 **System Design Focus** — Designed modular, fault-tolerant backend architectures inspired by distributed systems and clean code principles.
-
----
 
 ### 🛠️ Tech Stack & Tools
 
