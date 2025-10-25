@@ -80,3 +80,14 @@
 <p align="center">
   💼 <b>“Think Deep. Build Smart. Ship Fast.”</b> 🚀
 </p>
+
+---
+
+### 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aasis-Mohamed2208&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" width="420"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aasis-Mohamed2208&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" width="420"/>
+</p>
+
